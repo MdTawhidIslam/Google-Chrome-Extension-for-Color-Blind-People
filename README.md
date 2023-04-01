@@ -1,5 +1,5 @@
 # Google_Chrome_Extension_For_Color_Blind_People
-Project Title:Google Chrome Extension For Color Blind People
+Project Title: Google Chrome Extension For Color Blind People
 
 Developed By: Md. Tawhidul Islam Bhuiyan
 Student ID: 1604027
